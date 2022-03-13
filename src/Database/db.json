@@ -1,0 +1,52 @@
+{
+    "EmployeePayrollDB": [{
+            "id": 2,
+            "name": "neon",
+            "gender": "female",
+            "department": [
+                "Engineering"
+            ],
+            "salary": "500000",
+            "startDate": "29 Oct 2019",
+            "note": "Terrific Engineer",
+            "profilePic": "../Assets/profile-images/Ellipse -1.png"
+        },
+        {
+            "name": "Salen",
+            "gender": "female",
+            "department": [
+                "Sales"
+            ],
+            "salary": "400000",
+            "startDate": "29 Oct 2019",
+            "note": "",
+            "profilePic": "../Assets/profile-images/Ellipse -1.png",
+            "id": 3
+        },
+        {
+            "name": "Ellie",
+            "profilePic": "../Assets/profile-images/Ellipse -1.png",
+            "gender": "female",
+            "department": [
+                "Finance",
+                "Engineer"
+            ],
+            "salary": "428100",
+            "note": "                ",
+            "startDate": 1621189800000,
+            "id": 5
+        },
+        {
+            "name": "John Hawin",
+            "gender": "male",
+            "department": [
+                "HR"
+            ],
+            "salary": "78678",
+            "startDate": "",
+            "notes": "",
+            "profilePic": "../../assets/profile-images/Ellipse -3.png",
+            "id": 6
+        }
+    ]
+}
